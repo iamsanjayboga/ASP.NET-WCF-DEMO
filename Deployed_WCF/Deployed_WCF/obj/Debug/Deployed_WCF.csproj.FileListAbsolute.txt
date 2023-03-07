@@ -1,0 +1,7 @@
+C:\Users\bogas\OneDrive\Documents\Deployed_WCF\Deployed_WCF\bin\Deployed_WCF.dll.config
+C:\Users\bogas\OneDrive\Documents\Deployed_WCF\Deployed_WCF\bin\Deployed_WCF.dll
+C:\Users\bogas\OneDrive\Documents\Deployed_WCF\Deployed_WCF\bin\Deployed_WCF.pdb
+C:\Users\bogas\OneDrive\Documents\Deployed_WCF\Deployed_WCF\obj\Debug\Deployed_WCF.csproj.AssemblyReference.cache
+C:\Users\bogas\OneDrive\Documents\Deployed_WCF\Deployed_WCF\obj\Debug\Deployed_WCF.csproj.CoreCompileInputs.cache
+C:\Users\bogas\OneDrive\Documents\Deployed_WCF\Deployed_WCF\obj\Debug\Deployed_WCF.dll
+C:\Users\bogas\OneDrive\Documents\Deployed_WCF\Deployed_WCF\obj\Debug\Deployed_WCF.pdb
